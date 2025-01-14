@@ -1,0 +1,14 @@
+1. Hora de acordar
+    1. estou com os olhos abertos
+        1. vou tirar a coberta
+        2. vou me sentar na cama
+        3. vou colocar meu chinelo
+        4. vou no banheiro
+
+    2. nao estou com os olhos abertos
+        1. vou abrir os olhos 
+        2. vou tirar a coberta
+        3. vou me sentar na cama
+        4. vou colocar meu chinelo
+        5. vou no banheiro
+       
